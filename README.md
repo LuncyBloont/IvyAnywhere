@@ -1,6 +1,8 @@
 # Ivy Anywhere
 A Blender addon for Vine-like plants generation.
 
+![demo](IvyAnywhere.png)
+
 ### Installation:
 Clone or download IvyAnywhere into any directory you see fit. Open Blender and install the *.py file as a addon.
 
