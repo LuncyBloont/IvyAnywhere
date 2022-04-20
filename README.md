@@ -4,7 +4,7 @@ A Blender addon for Vine-like plants generation.
 ![demo](IvyAnywhere.png)
 
 ### Installation:
-Clone or download IvyAnywhere into any directory you see fit. Open Blender and install the *.py file as a addon.
+Clone or download IvyAnywhere into any directory you see fit. Open Blender and install the *.py file as an addon.
 
 ### Usage:
 In the objects view, first choose a object as building or stone. Then set the cursor to any location near by the chosen object (or the surface of it is better).
